@@ -147,9 +147,9 @@ Baca Selengkapnya [Klik Disini](https://edvanberliansa.wordpress.com/2016/06/18/
     <li>Antenna LPDA Lintratek</li>
 </ol>
 
-**NB: Untuk Penggunaan Antena Internal Tidak Rekomended kalau mau pasang antenna lebih baik antena eksternal saja**
+**Rekomendasi Antena Eksternal Tahun 2021** [Tonton Di Youtube](https://www.youtube.com/watch?v=Oj3gTiCO5II&t=63s)
 
-**Rekomendasi Antena Eksternal Tahun 2021**[Tonton Di Youtube](https://www.youtube.com/watch?v=Oj3gTiCO5II&t=63s)
+**NB: Untuk Penggunaan Antena Internal Tidak Rekomended kalau mau pasang antenna lebih baik antena eksternal saja**
 
 # Baterai Backup Untuk Modem Orbit
 
@@ -172,3 +172,23 @@ Baca Selengkapnya [Klik Disini](https://edvanberliansa.wordpress.com/2016/06/18/
 </ol>
 
 **NB : Anda Dapat Menggunakan metode Pembayaran Diatas Agar Dikarenakan Jarang Mengalami Kendala**
+
+# Kontak CS Layanan Orbit
+
+**Whatsapp** <br>
+<b>628111776706</b> Melalui Chat WA
+
+**instagram** <br>
+<b>@myorbitid</b> Melalui DM
+
+**Email** <br>
+<b>cs@myorbit.id</b>
+
+**Fb Messenger** <br>
+<b>@myorbitid Melalui Messenger</b>
+
+**Twiiter** <br>
+<b>@myorbitid</b> Melalui DM Twitter
+
+**Note : khusus utk klaim garansi, bisa kontak Intertec sebagai distributor device** <br>
+<b>WA : 6281219090300</b>
