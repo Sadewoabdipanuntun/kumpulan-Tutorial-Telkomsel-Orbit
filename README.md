@@ -83,6 +83,26 @@ Drive test merupakan suatu kegiatan untuk mengambil data ( collecting ) sebuah j
 
 Baca Selengkapnya [Klik Disini](https://edvanberliansa.wordpress.com/2016/06/18/4g-lte-drive-test-parameter/)
 
+# PENJELASAN SINR,RSRP,RSRQ BY MAS KRIPIK KINTA DARI GROUP PEJUANG GSM
+
+INTERNET DITEMPAT SAYA LAMBAT, APA PENYEBABNYA?
+Ada 6 faktor yang mempengaruhi kecepatan data 4G LTE. Secara garis besar urutan prioritasnya adalah:
+
+1. Signal Quality (SINR)
+   <p align="justify">Dalam jaringan 4G LTE, kualitas sinyal diukur sebagai SINR. Meningkatkan nilai SINR dapat berdampak drastis pada kecepatan koneksi anda. Cara terbaik untuk meningkatkan SINR adalah menggunakan antena Grid outdoor. Pointing yang bagus, atur ketinggiannya, kanan kirinya, nunduk/dongaknya.. karena antena grid sangat sensitif terhadap pointing. tapi kalau sudah dapat pointing yang pas hasilnya akan sangat bagus.</p>
+2. Jumlah Band yang Terhubung
+   <p align="justify">Handphone atau modem keluaran terbaru bisa menggunakan multi band secara bersamaan untuk terhubung ke BTS. Ini dinamakan "Carrier Aggregation." Semakin banyak band yang terhubung, B1+B3+B40 (900mhz+1800mhz+2300mhz) maka akan semakin tinggi kecepatan datanya. Mulailah beralih ke modem dengan spesifikasi Lte Cat6 keatas kalo mau mendapatkan kecepatan yang lebih tinggi.</p>
+3. Kekuatan Sinyal (RSRP)
+   <p align="justify">Banyak orang berpikir ini adalah faktor yang paling penting, tetapi sebenarnya enggak. Kekuatan sinyal (RSRP) di jaringan 4G LTE, memang penting. Tapi itu bukan faktor yang paling penting. Jika sinyal RSRP anda lebih kuat sekitar -90 dBm, maka sinyal yang lebih kuat (-80dbm) tidak akan berpengaruh banyak pada kecepatan data ketika nilai SINR nya rendah.</p>
+4. Kepadatan BTS
+   <p align="justify">Semakin banyak pengguna di BTS, maka semakin rendah kecepatan internet anda. Logikanya seperti itu. Pada prakteknya dilapangan, kepadatan BTS bervariasi menurut pita frekuensi. Umumnya frekuensi yang lebih tinggi (2300MHz) memiliki kemampuan menembus bangunan lebih lemah dari pada frekuensi yang lebih rendah (900MHz/1800MHz). Sehingga umumnya tidak begitu banyak yang menggunakan karena jangkauannya yang tidak begitu jauh. Sedangkan frekuensi yang lebih rendah (900MHz/1800MHz) bisa dipastikan lebih padat penggunanya karena coveragenya lebih luas. Penggunaan antena outdoor yang mengarah langsung ke BTS dapat membantu anda mendapatkan akses frekuensi yang lebih sedikit penggunanya.</p>
+5. Dukungan MIMO
+   <p align="justify">Baik BTS dan perangkat LTE (MODEM) biasanya menggunakan beberapa antena dalam konfigurasi yang disebut MIMO (Multiple Input Multiple Output). MIMO dapat meningkatkan kecepatan data anda sekitar 30%. Kebanyakan penguat sinyal atau antena yang ada dipasaran saat ini adalah SISO - "Single Input Single Output" ( Single Polarization) anda dapat memasang dua sistem antena secara paralel (Vertikal dan Horizontal) untuk mendapatkan efek dari MIMO. Tentunya anda membutuhkan antena MIMO dengan 2 pasang kabel antena.</p>
+6. Throttling atau Pembatasan
+   <p align="justify">Jika anda menggunakan "MVNO" (Mobile Virtual Network Operator) seperti by.U, Switch, Live.On, MPWR dan semacamnya, maka anda akan diperlakukan sebagai warga negara kelas dua di jaringan operator tersebut. Jadi wajar jika kualitas internet yang diberikan pun tidak sebagus kualitas Operator utamanya. Throttling atau pembatasan adalah proses di mana operator tidak memprioritaskan pengguna tertentu atau bahkan membatasi koneksi dan kualitas ping mereka ke kecepatan tertentu.</p>
+
+   Sumber [Klik Disini](https://www.facebook.com/groups/PejuangGSM/permalink/923191068165594)
+
 # Daftar Band 4G Provider Di Indonesia
 
 **TELKOMSEL**
