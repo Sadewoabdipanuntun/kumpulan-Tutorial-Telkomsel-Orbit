@@ -39,13 +39,8 @@ Untuk memeriksa ketersediaan jaringan di lokasi / daerah anda kita dapat menggun
 
 **Merupakan Tool Yang Dapat Digunakan untuk melock Band Pada Modem Huawei**
 
-# Download Aplikasi Huawei Manager :
+# Download Aplikasi Huawei Manager : [DOWNLOAD](https://duniawifi.com/blog/aplikasi-huawei-manager-telkomsel-orbit/)
 
-**1. Huawei Manager V6** [DOWNLOAD](https://drive.google.com/file/d/1ORdcV8UnGiTF-Pu-V7cl51c9AhCugoiZ/view?usp=sharing)
-
-**2. Huawei Manager V5** [DOWNLOAD](https://drive.google.com/file/d/1WYAWyQ1jUOAaR6RGv3tcStyTDsZwrDJQ/view?usp=sharing)
-
-**3. Huawei Manager V4** [DOWNLOAD](https://drive.google.com/file/d/1dD6ENOBfH874qkcoB2XzG-duMPt-JwhK/view?usp=sharing)
 
 # Panduan Menggunakan Aplikasi Huawei Manager
 
