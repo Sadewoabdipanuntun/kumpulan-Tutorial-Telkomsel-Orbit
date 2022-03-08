@@ -141,11 +141,12 @@ Ada 6 faktor yang mempengaruhi kecepatan data 4G LTE. Secara garis besar urutan 
     <li>Band 40 (2300 MHz) sebesar 30 MHz TDD</li>
   </ol>
 
+
 # lain-lain
 
 **Cara Mengganti Password Login Web Gui Modem Orbit** [Tonton Di Youtube](https://www.youtube.com/watch?v=WQTfFs9xXng&list=PLcLRqdxzA84bZrAyd-L5bUUDZ8EpY7Zvs&index=12)
 
-**Tutorial Memasang Kartu Orbit Di LHG LTE Mikrotik** [Baca Disini](https://adinata.id/umum/tutorial-pemasangan-kartu-telkomsel-orbit-pada-perangkat-lhg-lte-mikrotik)
+**Tutorial Memasang Kartu Orbit Di LHG LTE Mikrotik** [Baca Disini](https://duniawifi.com/blog/pasang-kartu-orbit-di-mikrotik-lhg-lte/)
 
 **Pilih Orbit Max Atau Orbit Star ?** [Tonton Di Youtube](https://www.youtube.com/watch?v=PqEaVW-tWaY)
 
