@@ -194,7 +194,7 @@ Ada 6 faktor yang mempengaruhi kecepatan data 4G LTE. Secara garis besar urutan 
 # Kontak CS Layanan Orbit
 
 **Whatsapp** <br>
-<b>628111776706</b> Melalui Chat WA
+<b>6282351859342</b> Melalui Chat WA
 
 **instagram** <br>
 <b>@myorbitid</b> Melalui DM
@@ -209,4 +209,4 @@ Ada 6 faktor yang mempengaruhi kecepatan data 4G LTE. Secara garis besar urutan 
 <b>@myorbitid</b> Melalui DM Twitter
 
 **Note : khusus utk klaim garansi, bisa kontak Intertec sebagai distributor device** <br>
-<b>WA : 6281219090300</b>
+<b>WA : 6282351859342</b>
